@@ -1,6 +1,6 @@
 ---
 name: Phiếu ghi lỗi
-about: Describe this issue template's purpose here.
+about: Ghi nhận lỗi phát sinh
 title: 'Lỗi - '
 labels: ''
 assignees: tolaptrinh-issue
