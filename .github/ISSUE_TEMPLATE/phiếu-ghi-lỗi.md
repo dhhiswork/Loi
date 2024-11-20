@@ -2,7 +2,7 @@
 name: Phiếu ghi lỗi
 about: Ghi nhận lỗi phát sinh
 title: 'Lỗi - '
-labels: ''
+labels: 2. Bình thường
 assignees: tolaptrinh-issue
 
 ---
